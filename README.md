@@ -97,7 +97,7 @@ Via le bouton **`⚙ Colonnes`** :
 ## Structure du projet
 
 ```
-patrimonial.py   ← application principale
+main.py   ← application principale
 donnees.json     ← données (créé automatiquement)
 config.json      ← colonnes personnalisées (créé automatiquement)
 README.md        ← ce fichier
